@@ -1,3 +1,4 @@
-a=10
-b=20
-print(a+b)
+
+from main import index
+def test_index():
+    assert index()== "Hello World"
