@@ -1,6 +1,4 @@
 from exe import *
-
-# calling functions
 displayText()
 
 '''
