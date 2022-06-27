@@ -1,4 +1,4 @@
 
-from main import index
+from exe import index
 def test_index():
     assert index()== "Hello World"
